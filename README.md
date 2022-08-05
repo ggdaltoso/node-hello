@@ -1,4 +1,4 @@
-# Hello from StackBlitz ⚡️
+# Hello from StackBlitz!
 
 Simple node.js app that servers "hello world"
 
