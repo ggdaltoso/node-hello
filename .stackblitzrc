@@ -1,4 +1,4 @@
 {
   "installDependencies": false,
-  "publisherStartCommand": "npm start",
+  "publisherStartCommand": "node index-blitz.js",
 }
