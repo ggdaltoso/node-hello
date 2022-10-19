@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/johnpapa/node-hello#readme",
   "dependencies": {
-    "foo": "1.0.0"
+    "foo": "git+ssh://git@github.com/Riglerr/react-native-hr.git"
   }
 }
